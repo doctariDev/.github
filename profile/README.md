@@ -4,6 +4,7 @@
 
 <img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/doctariDev/.github/main/profile/files/javascript.png" />
 <img align="left" alt="TypeScript" src="https://raw.githubusercontent.com/doctariDev/.github/main/profile/files/typescript.png" />
+<img align="left" alt="node" src="https://raw.githubusercontent.com/doctariDev/.github/main/profile/files/node.png" />
 <img align="left" alt="GitHub" src="https://raw.githubusercontent.com/doctariDev/.github/main/profile/files/github.png" />
 <img align="left" alt="React" src="https://raw.githubusercontent.com/doctariDev/.github/main/profile/files/react.png" />
 <img align="left" alt="Capacitor" src="https://raw.githubusercontent.com/doctariDev/.github/main/profile/files/capacitor.png" />
