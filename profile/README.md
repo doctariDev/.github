@@ -1,7 +1,5 @@
 <img alt="logo" src="https://raw.githubusercontent.com/doctariDev/.github/main/profile/files/doctarigroup.jpg" />
 
-<br/>
-
 ## Our tech stack
 
 <img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/doctariDev/.github/main/profile/files/javascript.png" />
