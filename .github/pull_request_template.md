@@ -18,6 +18,7 @@
 - [ ] Perplexity
 - [ ] Junie
 - [ ] Augment Code
+- [ ] JetBrains AI Assistant
 
 <sup>If a tool is missing, check [genai-contributions](https://github.com/doctariDev/.github) for exact 
 wording first, and create a PR if it is missing there as well.</sup>
